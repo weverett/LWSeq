@@ -1,5 +1,5 @@
-LWSeq
-=====
+Less Wrong Sequences
+====================
 
 A repository for sequences that I feel like pulling from Less Wrong and editing by hand into something with better formatting than the scrapers put together.
 
